@@ -14,7 +14,7 @@ W zależności od procentu zachorowań mapa przybiera coraz ciemniejszy kolor im
 Ponadto w sekcji bezpieczeństwo użytkownik może zasięgnąć informacji o postępowaniu w czasie pandemii.
 
 Autorzy:
-Adam Kaniasty
+Adam Kaniasty,
 Tymon Muszyński
 
 źródło danych: https://www.gov.pl/web/koronawirus/wykaz-zarazen-koronawirusem-sars-cov-2
