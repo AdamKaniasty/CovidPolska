@@ -6,6 +6,7 @@ Wyświetlane dane to:
 - liczba zgonów dziś
 - przewidywana liczba zakażeń jutro
 - przewidywana liczba zgonów jutro
+
 Aplikacja przewiduje zgony przy użyciu rozwiązań nowoczesniej technologii machine-learning.
 Jej zaletą jest szybkość i prostota w obsłudze.
 Głównym elementem jest interaktywna mapa Polski, która przy dotknięciu wyświetla dane dla poszczególnego województwa lub całego kraju.
